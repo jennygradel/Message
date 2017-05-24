@@ -1,4 +1,9 @@
 # Message
-1 
+2
 ||| 
-Type your message here
+Hello Friends,
+
+Thank you for making a purchase with "Jenny Gradel Fire Sticks"!!
+
+Best Regards,
+Jenny Gradel
